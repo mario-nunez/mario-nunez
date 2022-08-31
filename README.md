@@ -28,4 +28,4 @@
 
 ## ⚙️ GitHub Stats
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mario-nunez)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mario-nunez&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
