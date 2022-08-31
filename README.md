@@ -4,10 +4,14 @@
 🔭 I’m currently working on **my programming skills**  
 💬 Ask me about **anything that awakens your curiosity**  
 📫 Reach me **mario.nunez.callejo@gmail.com**  
-⚡ Fun fact **I'm funnier than this fact**  
+⚡ Fun fact **I'm funnier than this fact**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/marionunezcallejoprofile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mario nuñez callejo" height="20" width="30" /></a>
+
+---
 
 ## 💻 Tech Stack
 |       | Technologies    |
@@ -19,3 +23,9 @@
 | Data visualization   | <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>     |
 | Data analysis   | <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" rel="noreferrer"> <img src="https://spark.apache.org/docs/latest/api/python/_static/spark-logo-reverse.png" alt="pyspark" width="40" height="40"/> </a> |
 | Other  | <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>     |
+
+---
+
+## ⚙️ GitHub Stats
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mario-nunez)](https://github.com/anuraghazra/github-readme-stats)
