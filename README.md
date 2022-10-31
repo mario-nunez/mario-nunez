@@ -4,7 +4,7 @@
 🔭 I’m currently working on **my programming skills**  
 💬 Ask me about **anything that awakens your curiosity**  
 📫 Reach me **mario.nunez.callejo@gmail.com**  
-⚡ Fun fact **I'm funnier than this fact**
+⚡ Fun fact: **I'm funnier than this fact**
 
 ---
 
